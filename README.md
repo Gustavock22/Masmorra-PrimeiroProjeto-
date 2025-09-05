@@ -4,6 +4,7 @@ Bem-vindo ao EXPLORADOR SUPREMO DE MASMORRA SOLO, um jogo em C criado para explo
 # Sobre o jogo
 Você é um aventureiro perdido em uma masmorra misteriosa.
 Seu objetivo é sobreviver e escapar, passando por 3 fases diferentes, cada uma com desafios únicos:
+
 Mapa 1 🪨 – A primeira sala, simples e misteriosa.
 
 Mapa 2 🌳 – Uma floresta sombria, cheia de árvores suspeitas.
