@@ -1,2 +1,2 @@
 # Masmorra-PrimeiroProjeto-
-Meu projeto em C sobre um jogo sobre uma masmorra
+Bem-vindo ao EXPLORADOR SUPREMO DE MASMORRA SOLO, um jogo em C criado para explorar conceitos de programação, como estruturas, matrizes, vetores, condicionais e funções.
